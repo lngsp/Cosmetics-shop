@@ -1,0 +1,44 @@
+D:\IP\MagazinCosmetice\Produse\bin\Debug\Produse.dll
+D:\IP\MagazinCosmetice\Produse\bin\Debug\Produse.pdb
+D:\IP\MagazinCosmetice\Produse\bin\Debug\Management.dll
+D:\IP\MagazinCosmetice\Produse\bin\Debug\Management.pdb
+D:\IP\MagazinCosmetice\Produse\obj\Debug\Produse.csproj.AssemblyReference.cache
+D:\IP\MagazinCosmetice\Produse\obj\Debug\Produse.csproj.CoreCompileInputs.cache
+D:\IP\MagazinCosmetice\Produse\obj\Debug\Produse.csproj.CopyComplete
+D:\IP\MagazinCosmetice\Produse\obj\Debug\Produse.dll
+D:\IP\MagazinCosmetice\Produse\obj\Debug\Produse.pdb
+D:\IP\MagazinCosmetice- bun\MagazinCosmetice\Produse\bin\Debug\Produse.dll
+D:\IP\MagazinCosmetice- bun\MagazinCosmetice\Produse\bin\Debug\Produse.pdb
+D:\IP\MagazinCosmetice- bun\MagazinCosmetice\Produse\bin\Debug\Management.dll
+D:\IP\MagazinCosmetice- bun\MagazinCosmetice\Produse\bin\Debug\Management.pdb
+D:\IP\MagazinCosmetice- bun\MagazinCosmetice\Produse\obj\Debug\Produse.csproj.CoreCompileInputs.cache
+D:\IP\MagazinCosmetice- bun\MagazinCosmetice\Produse\obj\Debug\Produse.csproj.CopyComplete
+D:\IP\MagazinCosmetice- bun\MagazinCosmetice\Produse\obj\Debug\Produse.dll
+D:\IP\MagazinCosmetice- bun\MagazinCosmetice\Produse\obj\Debug\Produse.pdb
+C:\Users\unieuro\Downloads\MagazinCosmetice- bun\MagazinCosmetice\Produse\bin\Debug\Produse.dll
+C:\Users\unieuro\Downloads\MagazinCosmetice- bun\MagazinCosmetice\Produse\bin\Debug\Produse.pdb
+C:\Users\unieuro\Downloads\MagazinCosmetice- bun\MagazinCosmetice\Produse\bin\Debug\Management.dll
+C:\Users\unieuro\Downloads\MagazinCosmetice- bun\MagazinCosmetice\Produse\bin\Debug\Management.pdb
+C:\Users\unieuro\Downloads\MagazinCosmetice- bun\MagazinCosmetice\Produse\obj\Debug\Produse.csprojAssemblyReference.cache
+C:\Users\unieuro\Downloads\MagazinCosmetice- bun\MagazinCosmetice\Produse\obj\Debug\Produse.csproj.CoreCompileInputs.cache
+C:\Users\unieuro\Downloads\MagazinCosmetice- bun\MagazinCosmetice\Produse\obj\Debug\Produse.csproj.CopyComplete
+C:\Users\unieuro\Downloads\MagazinCosmetice- bun\MagazinCosmetice\Produse\obj\Debug\Produse.dll
+C:\Users\unieuro\Downloads\MagazinCosmetice- bun\MagazinCosmetice\Produse\obj\Debug\Produse.pdb
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\Produse\bin\Debug\Produse.dll
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\Produse\bin\Debug\Produse.pdb
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\Produse\bin\Debug\Management.dll
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\Produse\bin\Debug\Management.pdb
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\Produse\obj\Debug\Produse.csprojAssemblyReference.cache
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\Produse\obj\Debug\Produse.csproj.CoreCompileInputs.cache
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\Produse\obj\Debug\Produse.csproj.CopyComplete
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\Produse\obj\Debug\Produse.dll
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\Produse\obj\Debug\Produse.pdb
+C:\Users\STEFANIA\OneDrive\Desktop\Facultate\IP\Proiect IP\Echipa_04_prj\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\Produse\bin\Debug\Produse.dll
+C:\Users\STEFANIA\OneDrive\Desktop\Facultate\IP\Proiect IP\Echipa_04_prj\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\Produse\bin\Debug\Produse.pdb
+C:\Users\STEFANIA\OneDrive\Desktop\Facultate\IP\Proiect IP\Echipa_04_prj\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\Produse\bin\Debug\Management.dll
+C:\Users\STEFANIA\OneDrive\Desktop\Facultate\IP\Proiect IP\Echipa_04_prj\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\Produse\bin\Debug\Management.pdb
+C:\Users\STEFANIA\OneDrive\Desktop\Facultate\IP\Proiect IP\Echipa_04_prj\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\Produse\obj\Debug\Produse.csprojAssemblyReference.cache
+C:\Users\STEFANIA\OneDrive\Desktop\Facultate\IP\Proiect IP\Echipa_04_prj\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\Produse\obj\Debug\Produse.csproj.CoreCompileInputs.cache
+C:\Users\STEFANIA\OneDrive\Desktop\Facultate\IP\Proiect IP\Echipa_04_prj\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\Produse\obj\Debug\Produse.csproj.CopyComplete
+C:\Users\STEFANIA\OneDrive\Desktop\Facultate\IP\Proiect IP\Echipa_04_prj\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\Produse\obj\Debug\Produse.dll
+C:\Users\STEFANIA\OneDrive\Desktop\Facultate\IP\Proiect IP\Echipa_04_prj\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\Produse\obj\Debug\Produse.pdb

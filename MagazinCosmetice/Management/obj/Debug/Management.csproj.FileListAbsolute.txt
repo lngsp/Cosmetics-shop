@@ -1,0 +1,18 @@
+D:\IP\MagazinCosmetice\Management\bin\Debug\Management.dll
+D:\IP\MagazinCosmetice\Management\bin\Debug\Management.pdb
+D:\IP\MagazinCosmetice\Management\obj\Debug\Management.csproj.AssemblyReference.cache
+D:\IP\MagazinCosmetice\Management\obj\Debug\Management.csproj.CoreCompileInputs.cache
+D:\IP\MagazinCosmetice\Management\obj\Debug\Management.dll
+D:\IP\MagazinCosmetice\Management\obj\Debug\Management.pdb
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\Management\bin\Debug\Management.dll
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\Management\bin\Debug\Management.pdb
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\Management\obj\Debug\Management.csprojAssemblyReference.cache
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\Management\obj\Debug\Management.csproj.CoreCompileInputs.cache
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\Management\obj\Debug\Management.dll
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\Management\obj\Debug\Management.pdb
+C:\Users\STEFANIA\OneDrive\Desktop\Facultate\IP\Proiect IP\Echipa_04_prj\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\Management\bin\Debug\Management.dll
+C:\Users\STEFANIA\OneDrive\Desktop\Facultate\IP\Proiect IP\Echipa_04_prj\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\Management\bin\Debug\Management.pdb
+C:\Users\STEFANIA\OneDrive\Desktop\Facultate\IP\Proiect IP\Echipa_04_prj\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\Management\obj\Debug\Management.csprojAssemblyReference.cache
+C:\Users\STEFANIA\OneDrive\Desktop\Facultate\IP\Proiect IP\Echipa_04_prj\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\Management\obj\Debug\Management.csproj.CoreCompileInputs.cache
+C:\Users\STEFANIA\OneDrive\Desktop\Facultate\IP\Proiect IP\Echipa_04_prj\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\Management\obj\Debug\Management.dll
+C:\Users\STEFANIA\OneDrive\Desktop\Facultate\IP\Proiect IP\Echipa_04_prj\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\Management\obj\Debug\Management.pdb

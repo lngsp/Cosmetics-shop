@@ -1,0 +1,119 @@
+D:\IP\MagazinCosmetice\obj\Debug\MagazinCosmetice.csproj.AssemblyReference.cache
+D:\IP\MagazinCosmetice\obj\Debug\MagazinCosmetice.Form1.resources
+D:\IP\MagazinCosmetice\obj\Debug\MagazinCosmetice.csproj.GenerateResource.cache
+D:\IP\MagazinCosmetice\bin\Debug\MagazinCosmetice.exe.config
+D:\IP\MagazinCosmetice\bin\Debug\MagazinCosmetice.exe
+D:\IP\MagazinCosmetice\bin\Debug\MagazinCosmetice.pdb
+D:\IP\MagazinCosmetice\obj\Debug\MagazinCosmetice.Properties.Resources.resources
+D:\IP\MagazinCosmetice\obj\Debug\MagazinCosmetice.csproj.CoreCompileInputs.cache
+D:\IP\MagazinCosmetice\obj\Debug\MagazinCosmetice.exe
+D:\IP\MagazinCosmetice\obj\Debug\MagazinCosmetice.pdb
+D:\IP\MagazinCosmetice\bin\Debug\Management.dll
+D:\IP\MagazinCosmetice\bin\Debug\Produse.dll
+D:\IP\MagazinCosmetice\bin\Debug\ProxyUserAdmin.dll
+D:\IP\MagazinCosmetice\bin\Debug\Management.pdb
+D:\IP\MagazinCosmetice\bin\Debug\Produse.pdb
+D:\IP\MagazinCosmetice\bin\Debug\ProxyUserAdmin.pdb
+D:\IP\MagazinCosmetice\obj\Debug\MagazinCosmetice.csproj.CopyComplete
+D:\IP\MagazinCosmetice- bun\MagazinCosmetice\obj\Debug\MagazinCosmetice.Form1.resources
+D:\IP\MagazinCosmetice- bun\MagazinCosmetice\obj\Debug\MagazinCosmetice.Properties.Resources.resources
+D:\IP\MagazinCosmetice- bun\MagazinCosmetice\obj\Debug\MagazinCosmetice.csproj.GenerateResource.cache
+D:\IP\MagazinCosmetice- bun\MagazinCosmetice\obj\Debug\MagazinCosmetice.csproj.CoreCompileInputs.cache
+D:\IP\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\MagazinCosmetice.exe.config
+D:\IP\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\MagazinCosmetice.exe
+D:\IP\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\MagazinCosmetice.pdb
+D:\IP\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\Management.dll
+D:\IP\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\Produse.dll
+D:\IP\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\ProxyUserAdmin.dll
+D:\IP\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\Management.pdb
+D:\IP\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\Produse.pdb
+D:\IP\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\ProxyUserAdmin.pdb
+D:\IP\MagazinCosmetice- bun\MagazinCosmetice\obj\Debug\MagazinCosmetice.csproj.AssemblyReference.cache
+D:\IP\MagazinCosmetice- bun\MagazinCosmetice\obj\Debug\MagazinCosmetice.csproj.CopyComplete
+D:\IP\MagazinCosmetice- bun\MagazinCosmetice\obj\Debug\MagazinCosmetice.exe
+D:\IP\MagazinCosmetice- bun\MagazinCosmetice\obj\Debug\MagazinCosmetice.pdb
+C:\Users\unieuro\Downloads\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\MagazinCosmetice.exe.config
+C:\Users\unieuro\Downloads\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\MagazinCosmetice.exe
+C:\Users\unieuro\Downloads\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\MagazinCosmetice.pdb
+C:\Users\unieuro\Downloads\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\Management.dll
+C:\Users\unieuro\Downloads\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\Produse.dll
+C:\Users\unieuro\Downloads\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\ProxyUserAdmin.dll
+C:\Users\unieuro\Downloads\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\Management.pdb
+C:\Users\unieuro\Downloads\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\Produse.pdb
+C:\Users\unieuro\Downloads\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\ProxyUserAdmin.pdb
+C:\Users\unieuro\Downloads\MagazinCosmetice- bun\MagazinCosmetice\obj\Debug\MagazinCosmetice.csprojAssemblyReference.cache
+C:\Users\unieuro\Downloads\MagazinCosmetice- bun\MagazinCosmetice\obj\Debug\MagazinCosmetice.Form1.resources
+C:\Users\unieuro\Downloads\MagazinCosmetice- bun\MagazinCosmetice\obj\Debug\MagazinCosmetice.Properties.Resources.resources
+C:\Users\unieuro\Downloads\MagazinCosmetice- bun\MagazinCosmetice\obj\Debug\MagazinCosmetice.csproj.GenerateResource.cache
+C:\Users\unieuro\Downloads\MagazinCosmetice- bun\MagazinCosmetice\obj\Debug\MagazinCosmetice.csproj.CoreCompileInputs.cache
+C:\Users\unieuro\Downloads\MagazinCosmetice- bun\MagazinCosmetice\obj\Debug\MagazinCosmetice.csproj.CopyComplete
+C:\Users\unieuro\Downloads\MagazinCosmetice- bun\MagazinCosmetice\obj\Debug\MagazinCosmetice.exe
+C:\Users\unieuro\Downloads\MagazinCosmetice- bun\MagazinCosmetice\obj\Debug\MagazinCosmetice.pdb
+D:\MagazinCosmetice-ultimul\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\MagazinCosmetice.exe.config
+D:\MagazinCosmetice-ultimul\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\MagazinCosmetice.exe
+D:\MagazinCosmetice-ultimul\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\MagazinCosmetice.pdb
+D:\MagazinCosmetice-ultimul\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\Management.dll
+D:\MagazinCosmetice-ultimul\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\Produse.dll
+D:\MagazinCosmetice-ultimul\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\ProxyUserAdmin.dll
+D:\MagazinCosmetice-ultimul\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\Management.pdb
+D:\MagazinCosmetice-ultimul\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\Produse.pdb
+D:\MagazinCosmetice-ultimul\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\ProxyUserAdmin.pdb
+D:\MagazinCosmetice-ultimul\MagazinCosmetice- bun\MagazinCosmetice\obj\Debug\MagazinCosmetice.Form1.resources
+D:\MagazinCosmetice-ultimul\MagazinCosmetice- bun\MagazinCosmetice\obj\Debug\MagazinCosmetice.Properties.Resources.resources
+D:\MagazinCosmetice-ultimul\MagazinCosmetice- bun\MagazinCosmetice\obj\Debug\MagazinCosmetice.csproj.GenerateResource.cache
+D:\MagazinCosmetice-ultimul\MagazinCosmetice- bun\MagazinCosmetice\obj\Debug\MagazinCosmetice.csproj.CoreCompileInputs.cache
+D:\MagazinCosmetice-ultimul\MagazinCosmetice- bun\MagazinCosmetice\obj\Debug\MagazinCosmetice.csproj.CopyComplete
+D:\MagazinCosmetice-ultimul\MagazinCosmetice- bun\MagazinCosmetice\obj\Debug\MagazinCosmetice.exe
+D:\MagazinCosmetice-ultimul\MagazinCosmetice- bun\MagazinCosmetice\obj\Debug\MagazinCosmetice.pdb
+D:\MagazinCosmetice-ultimul\MagazinCosmetice- bun\MagazinCosmetice\obj\Debug\MagazinCosmetice.csproj.AssemblyReference.cache
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\MagazinCosmetice.exe.config
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\MagazinCosmetice.exe
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\MagazinCosmetice.pdb
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\Management.dll
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\Produse.dll
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\ProxyUserAdmin.dll
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\Management.pdb
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\Produse.pdb
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\ProxyUserAdmin.pdb
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\obj\Debug\MagazinCosmetice.csprojAssemblyReference.cache
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\obj\Debug\MagazinCosmetice.Form1.resources
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\obj\Debug\MagazinCosmetice.Properties.Resources.resources
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\obj\Debug\MagazinCosmetice.csproj.GenerateResource.cache
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\obj\Debug\MagazinCosmetice.csproj.CoreCompileInputs.cache
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\obj\Debug\MagazinCosmetice.csproj.CopyComplete
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\obj\Debug\MagazinCosmetice.exe
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\obj\Debug\MagazinCosmetice.pdb
+C:\Users\Claudia\Desktop\MagazinCosmetice-bun-1\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\MagazinCosmetice.exe.config
+C:\Users\Claudia\Desktop\MagazinCosmetice-bun-1\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\MagazinCosmetice.exe
+C:\Users\Claudia\Desktop\MagazinCosmetice-bun-1\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\MagazinCosmetice.pdb
+C:\Users\Claudia\Desktop\MagazinCosmetice-bun-1\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\Management.dll
+C:\Users\Claudia\Desktop\MagazinCosmetice-bun-1\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\Produse.dll
+C:\Users\Claudia\Desktop\MagazinCosmetice-bun-1\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\ProxyUserAdmin.dll
+C:\Users\Claudia\Desktop\MagazinCosmetice-bun-1\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\Management.pdb
+C:\Users\Claudia\Desktop\MagazinCosmetice-bun-1\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\Produse.pdb
+C:\Users\Claudia\Desktop\MagazinCosmetice-bun-1\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\ProxyUserAdmin.pdb
+C:\Users\Claudia\Desktop\MagazinCosmetice-bun-1\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\obj\Debug\MagazinCosmetice.csprojAssemblyReference.cache
+C:\Users\Claudia\Desktop\MagazinCosmetice-bun-1\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\obj\Debug\MagazinCosmetice.Form1.resources
+C:\Users\Claudia\Desktop\MagazinCosmetice-bun-1\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\obj\Debug\MagazinCosmetice.Properties.Resources.resources
+C:\Users\Claudia\Desktop\MagazinCosmetice-bun-1\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\obj\Debug\MagazinCosmetice.csproj.GenerateResource.cache
+C:\Users\Claudia\Desktop\MagazinCosmetice-bun-1\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\obj\Debug\MagazinCosmetice.csproj.CoreCompileInputs.cache
+C:\Users\Claudia\Desktop\MagazinCosmetice-bun-1\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\obj\Debug\MagazinCosmetice.csproj.CopyComplete
+C:\Users\Claudia\Desktop\MagazinCosmetice-bun-1\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\obj\Debug\MagazinCosmetice.exe
+C:\Users\Claudia\Desktop\MagazinCosmetice-bun-1\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\obj\Debug\MagazinCosmetice.pdb
+C:\Users\STEFANIA\OneDrive\Desktop\Facultate\IP\Proiect IP\Echipa_04_prj\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\MagazinCosmetice.exe.config
+C:\Users\STEFANIA\OneDrive\Desktop\Facultate\IP\Proiect IP\Echipa_04_prj\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\MagazinCosmetice.exe
+C:\Users\STEFANIA\OneDrive\Desktop\Facultate\IP\Proiect IP\Echipa_04_prj\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\MagazinCosmetice.pdb
+C:\Users\STEFANIA\OneDrive\Desktop\Facultate\IP\Proiect IP\Echipa_04_prj\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\Management.dll
+C:\Users\STEFANIA\OneDrive\Desktop\Facultate\IP\Proiect IP\Echipa_04_prj\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\Produse.dll
+C:\Users\STEFANIA\OneDrive\Desktop\Facultate\IP\Proiect IP\Echipa_04_prj\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\ProxyUserAdmin.dll
+C:\Users\STEFANIA\OneDrive\Desktop\Facultate\IP\Proiect IP\Echipa_04_prj\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\Management.pdb
+C:\Users\STEFANIA\OneDrive\Desktop\Facultate\IP\Proiect IP\Echipa_04_prj\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\Produse.pdb
+C:\Users\STEFANIA\OneDrive\Desktop\Facultate\IP\Proiect IP\Echipa_04_prj\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\bin\Debug\ProxyUserAdmin.pdb
+C:\Users\STEFANIA\OneDrive\Desktop\Facultate\IP\Proiect IP\Echipa_04_prj\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\obj\Debug\MagazinCosmetice.csprojAssemblyReference.cache
+C:\Users\STEFANIA\OneDrive\Desktop\Facultate\IP\Proiect IP\Echipa_04_prj\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\obj\Debug\MagazinCosmetice.Form1.resources
+C:\Users\STEFANIA\OneDrive\Desktop\Facultate\IP\Proiect IP\Echipa_04_prj\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\obj\Debug\MagazinCosmetice.Properties.Resources.resources
+C:\Users\STEFANIA\OneDrive\Desktop\Facultate\IP\Proiect IP\Echipa_04_prj\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\obj\Debug\MagazinCosmetice.csproj.GenerateResource.cache
+C:\Users\STEFANIA\OneDrive\Desktop\Facultate\IP\Proiect IP\Echipa_04_prj\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\obj\Debug\MagazinCosmetice.csproj.CoreCompileInputs.cache
+C:\Users\STEFANIA\OneDrive\Desktop\Facultate\IP\Proiect IP\Echipa_04_prj\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\obj\Debug\MagazinCosmetice.csproj.CopyComplete
+C:\Users\STEFANIA\OneDrive\Desktop\Facultate\IP\Proiect IP\Echipa_04_prj\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\obj\Debug\MagazinCosmetice.exe
+C:\Users\STEFANIA\OneDrive\Desktop\Facultate\IP\Proiect IP\Echipa_04_prj\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\obj\Debug\MagazinCosmetice.pdb

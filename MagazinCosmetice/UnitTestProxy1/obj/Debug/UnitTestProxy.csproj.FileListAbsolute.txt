@@ -1,0 +1,50 @@
+D:\MagazinCosmetice-ultimul\MagazinCosmetice- bun\MagazinCosmetice\UnitTestProxy1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\MagazinCosmetice-ultimul\MagazinCosmetice- bun\MagazinCosmetice\UnitTestProxy1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\MagazinCosmetice-ultimul\MagazinCosmetice- bun\MagazinCosmetice\UnitTestProxy1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\MagazinCosmetice-ultimul\MagazinCosmetice- bun\MagazinCosmetice\UnitTestProxy1\bin\Debug\UnitTestProxy1.dll
+D:\MagazinCosmetice-ultimul\MagazinCosmetice- bun\MagazinCosmetice\UnitTestProxy1\bin\Debug\UnitTestProxy1.pdb
+D:\MagazinCosmetice-ultimul\MagazinCosmetice- bun\MagazinCosmetice\UnitTestProxy1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\MagazinCosmetice-ultimul\MagazinCosmetice- bun\MagazinCosmetice\UnitTestProxy1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\MagazinCosmetice-ultimul\MagazinCosmetice- bun\MagazinCosmetice\UnitTestProxy1\bin\Debug\ProxyUserAdmin.dll
+D:\MagazinCosmetice-ultimul\MagazinCosmetice- bun\MagazinCosmetice\UnitTestProxy1\bin\Debug\ProxyUserAdmin.pdb
+D:\MagazinCosmetice-ultimul\MagazinCosmetice- bun\MagazinCosmetice\UnitTestProxy1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\MagazinCosmetice-ultimul\MagazinCosmetice- bun\MagazinCosmetice\UnitTestProxy1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\MagazinCosmetice-ultimul\MagazinCosmetice- bun\MagazinCosmetice\UnitTestProxy1\obj\Debug\UnitTestProxy.csproj.AssemblyReference.cache
+D:\MagazinCosmetice-ultimul\MagazinCosmetice- bun\MagazinCosmetice\UnitTestProxy1\obj\Debug\UnitTestProxy.csproj.CoreCompileInputs.cache
+D:\MagazinCosmetice-ultimul\MagazinCosmetice- bun\MagazinCosmetice\UnitTestProxy1\obj\Debug\UnitTestProxy.csproj.CopyComplete
+D:\MagazinCosmetice-ultimul\MagazinCosmetice- bun\MagazinCosmetice\UnitTestProxy1\obj\Debug\UnitTestProxy1.dll
+D:\MagazinCosmetice-ultimul\MagazinCosmetice- bun\MagazinCosmetice\UnitTestProxy1\obj\Debug\UnitTestProxy1.pdb
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\UnitTestProxy1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\UnitTestProxy1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\UnitTestProxy1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\UnitTestProxy1\bin\Debug\UnitTestProxy1.dll
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\UnitTestProxy1\bin\Debug\UnitTestProxy1.pdb
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\UnitTestProxy1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\UnitTestProxy1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\UnitTestProxy1\bin\Debug\ProxyUserAdmin.dll
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\UnitTestProxy1\bin\Debug\ProxyUserAdmin.pdb
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\UnitTestProxy1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\UnitTestProxy1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\UnitTestProxy1\obj\Debug\UnitTestProxy.csprojAssemblyReference.cache
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\UnitTestProxy1\obj\Debug\UnitTestProxy.csproj.CoreCompileInputs.cache
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\UnitTestProxy1\obj\Debug\UnitTestProxy.csproj.CopyComplete
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\UnitTestProxy1\obj\Debug\UnitTestProxy1.dll
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\UnitTestProxy1\obj\Debug\UnitTestProxy1.pdb
+C:\Users\unieuro\Downloads\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\UnitTestProxy1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\unieuro\Downloads\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\UnitTestProxy1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\unieuro\Downloads\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\UnitTestProxy1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\unieuro\Downloads\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\UnitTestProxy1\bin\Debug\UnitTestProxy1.dll
+C:\Users\unieuro\Downloads\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\UnitTestProxy1\bin\Debug\UnitTestProxy1.pdb
+C:\Users\unieuro\Downloads\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\UnitTestProxy1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\unieuro\Downloads\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\UnitTestProxy1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\unieuro\Downloads\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\UnitTestProxy1\bin\Debug\ProxyUserAdmin.dll
+C:\Users\unieuro\Downloads\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\UnitTestProxy1\bin\Debug\ProxyUserAdmin.pdb
+C:\Users\unieuro\Downloads\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\UnitTestProxy1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\unieuro\Downloads\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\UnitTestProxy1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\unieuro\Downloads\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\UnitTestProxy1\obj\Debug\UnitTestProxy.csprojAssemblyReference.cache
+C:\Users\unieuro\Downloads\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\UnitTestProxy1\obj\Debug\UnitTestProxy.csproj.CoreCompileInputs.cache
+C:\Users\unieuro\Downloads\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\UnitTestProxy1\obj\Debug\UnitTestProxy.csproj.CopyComplete
+C:\Users\unieuro\Downloads\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\UnitTestProxy1\obj\Debug\UnitTestProxy1.dll
+C:\Users\unieuro\Downloads\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\UnitTestProxy1\obj\Debug\UnitTestProxy1.pdb
+C:\Users\STEFANIA\OneDrive\Desktop\Facultate\IP\Proiect IP\Echipa_04_prj\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\UnitTestProxy1\obj\Debug\UnitTestProxy1.dll
+C:\Users\STEFANIA\OneDrive\Desktop\Facultate\IP\Proiect IP\Echipa_04_prj\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\UnitTestProxy1\obj\Debug\UnitTestProxy1.pdb

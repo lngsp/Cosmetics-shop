@@ -1,0 +1,30 @@
+D:\IP\MagazinCosmetice\ProxyUserAdmin\bin\Debug\ProxyUserAdmin.dll
+D:\IP\MagazinCosmetice\ProxyUserAdmin\bin\Debug\ProxyUserAdmin.pdb
+D:\IP\MagazinCosmetice\ProxyUserAdmin\obj\Debug\ProxyUserAdmin.csproj.AssemblyReference.cache
+D:\IP\MagazinCosmetice\ProxyUserAdmin\obj\Debug\ProxyUserAdmin.csproj.CoreCompileInputs.cache
+D:\IP\MagazinCosmetice\ProxyUserAdmin\obj\Debug\ProxyUserAdmin.dll
+D:\IP\MagazinCosmetice\ProxyUserAdmin\obj\Debug\ProxyUserAdmin.pdb
+C:\Users\unieuro\Downloads\MagazinCosmetice- bun\MagazinCosmetice\ProxyUserAdmin\bin\Debug\ProxyUserAdmin.dll
+C:\Users\unieuro\Downloads\MagazinCosmetice- bun\MagazinCosmetice\ProxyUserAdmin\bin\Debug\ProxyUserAdmin.pdb
+C:\Users\unieuro\Downloads\MagazinCosmetice- bun\MagazinCosmetice\ProxyUserAdmin\obj\Debug\ProxyUserAdmin.csprojAssemblyReference.cache
+C:\Users\unieuro\Downloads\MagazinCosmetice- bun\MagazinCosmetice\ProxyUserAdmin\obj\Debug\ProxyUserAdmin.csproj.CoreCompileInputs.cache
+C:\Users\unieuro\Downloads\MagazinCosmetice- bun\MagazinCosmetice\ProxyUserAdmin\obj\Debug\ProxyUserAdmin.dll
+C:\Users\unieuro\Downloads\MagazinCosmetice- bun\MagazinCosmetice\ProxyUserAdmin\obj\Debug\ProxyUserAdmin.pdb
+D:\MagazinCosmetice-ultimul\MagazinCosmetice- bun\MagazinCosmetice\ProxyUserAdmin\bin\Debug\ProxyUserAdmin.dll
+D:\MagazinCosmetice-ultimul\MagazinCosmetice- bun\MagazinCosmetice\ProxyUserAdmin\bin\Debug\ProxyUserAdmin.pdb
+D:\MagazinCosmetice-ultimul\MagazinCosmetice- bun\MagazinCosmetice\ProxyUserAdmin\obj\Debug\ProxyUserAdmin.csproj.AssemblyReference.cache
+D:\MagazinCosmetice-ultimul\MagazinCosmetice- bun\MagazinCosmetice\ProxyUserAdmin\obj\Debug\ProxyUserAdmin.csproj.CoreCompileInputs.cache
+D:\MagazinCosmetice-ultimul\MagazinCosmetice- bun\MagazinCosmetice\ProxyUserAdmin\obj\Debug\ProxyUserAdmin.dll
+D:\MagazinCosmetice-ultimul\MagazinCosmetice- bun\MagazinCosmetice\ProxyUserAdmin\obj\Debug\ProxyUserAdmin.pdb
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\ProxyUserAdmin\bin\Debug\ProxyUserAdmin.dll
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\ProxyUserAdmin\bin\Debug\ProxyUserAdmin.pdb
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\ProxyUserAdmin\obj\Debug\ProxyUserAdmin.csprojAssemblyReference.cache
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\ProxyUserAdmin\obj\Debug\ProxyUserAdmin.csproj.CoreCompileInputs.cache
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\ProxyUserAdmin\obj\Debug\ProxyUserAdmin.dll
+C:\Users\unieuro\Downloads\MagazinCosmetice-bun (1)\MagazinCosmetice- bun\MagazinCosmetice\ProxyUserAdmin\obj\Debug\ProxyUserAdmin.pdb
+C:\Users\STEFANIA\OneDrive\Desktop\Facultate\IP\Proiect IP\Echipa_04_prj\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\ProxyUserAdmin\bin\Debug\ProxyUserAdmin.dll
+C:\Users\STEFANIA\OneDrive\Desktop\Facultate\IP\Proiect IP\Echipa_04_prj\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\ProxyUserAdmin\bin\Debug\ProxyUserAdmin.pdb
+C:\Users\STEFANIA\OneDrive\Desktop\Facultate\IP\Proiect IP\Echipa_04_prj\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\ProxyUserAdmin\obj\Debug\ProxyUserAdmin.csprojAssemblyReference.cache
+C:\Users\STEFANIA\OneDrive\Desktop\Facultate\IP\Proiect IP\Echipa_04_prj\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\ProxyUserAdmin\obj\Debug\ProxyUserAdmin.csproj.CoreCompileInputs.cache
+C:\Users\STEFANIA\OneDrive\Desktop\Facultate\IP\Proiect IP\Echipa_04_prj\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\ProxyUserAdmin\obj\Debug\ProxyUserAdmin.dll
+C:\Users\STEFANIA\OneDrive\Desktop\Facultate\IP\Proiect IP\Echipa_04_prj\MagazinCosmetice-FINAL\MagazinCosmetice- bun\MagazinCosmetice\ProxyUserAdmin\obj\Debug\ProxyUserAdmin.pdb
