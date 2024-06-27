@@ -1,6 +1,8 @@
 Management of a cosmetics shop. The application has the following flow of activities:
-![image](https://github.com/lngsp/Cosmetics-shop/assets/102326882/9addcf8b-eaef-4d5e-8d34-68c36889aa3c)
+![capture-20240627-110352](https://github.com/lngsp/Cosmetics-shop/assets/102326882/4f4d208c-5fdd-4ed6-8c9c-b2ffdbb8b414)
+
 
 The user interface is pleasant, as follows:
-![image](https://github.com/lngsp/Cosmetics-shop/assets/102326882/a31e0a7e-1b3b-4e80-bd29-3c020fa7d589)
-![image](https://github.com/lngsp/Cosmetics-shop/assets/102326882/aca8a4fb-6e3c-4bf1-afb3-9c8e881e0b8d)
+![capture-20240627-110425](https://github.com/lngsp/Cosmetics-shop/assets/102326882/48c89ec2-50cb-4f60-9c32-92227dc0374f)
+
+![capture-20240627-110444](https://github.com/lngsp/Cosmetics-shop/assets/102326882/112e3964-4a20-4b4f-9e86-cfeb6f6fc036)
